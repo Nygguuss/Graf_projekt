@@ -1,0 +1,15 @@
+/home/lugus/Documents/Graf_projekt/bin/Debug/net7.0/Graf_projekt
+/home/lugus/Documents/Graf_projekt/bin/Debug/net7.0/Graf_projekt.deps.json
+/home/lugus/Documents/Graf_projekt/bin/Debug/net7.0/Graf_projekt.runtimeconfig.json
+/home/lugus/Documents/Graf_projekt/bin/Debug/net7.0/Graf_projekt.dll
+/home/lugus/Documents/Graf_projekt/bin/Debug/net7.0/Graf_projekt.pdb
+/home/lugus/Documents/Graf_projekt/obj/Debug/net7.0/Graf_projekt.csproj.AssemblyReference.cache
+/home/lugus/Documents/Graf_projekt/obj/Debug/net7.0/Graf_projekt.GeneratedMSBuildEditorConfig.editorconfig
+/home/lugus/Documents/Graf_projekt/obj/Debug/net7.0/Graf_projekt.AssemblyInfoInputs.cache
+/home/lugus/Documents/Graf_projekt/obj/Debug/net7.0/Graf_projekt.AssemblyInfo.cs
+/home/lugus/Documents/Graf_projekt/obj/Debug/net7.0/Graf_projekt.csproj.CoreCompileInputs.cache
+/home/lugus/Documents/Graf_projekt/obj/Debug/net7.0/Graf_projekt.dll
+/home/lugus/Documents/Graf_projekt/obj/Debug/net7.0/refint/Graf_projekt.dll
+/home/lugus/Documents/Graf_projekt/obj/Debug/net7.0/Graf_projekt.pdb
+/home/lugus/Documents/Graf_projekt/obj/Debug/net7.0/Graf_projekt.genruntimeconfig.cache
+/home/lugus/Documents/Graf_projekt/obj/Debug/net7.0/ref/Graf_projekt.dll
