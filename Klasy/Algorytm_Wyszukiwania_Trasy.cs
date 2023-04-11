@@ -89,5 +89,8 @@ namespace graf_od_podstaw.Klasy
             return "Nie znleziono ścieżki.";
         }
 
+
+
+
     }
 }

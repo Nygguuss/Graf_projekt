@@ -49,6 +49,8 @@ namespace graf_od_podstaw
             miejcowosci.wyswietl_miejscowosci();
             Trasy_i_Polaczenia trasy_i_polaczenia = new Trasy_i_Polaczenia(graf,miejcowosci);
             trasy_i_polaczenia.WszystkieDostepneTrasy();
+
+            
             var droga = Algorytm_Wyszukiwania_Trasy.ZnajdzTrase(graf.macierz, start, koniec);
             Console.WriteLine(droga); 
             //Console.ReadLine();
